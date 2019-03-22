@@ -1,6 +1,6 @@
 {
 	"name": "is-answer-to-the-ultimate-question-of-life-the-universe-and-everything",
-	"version": "1.0.0",
+	"version": "42.0.0",
 	"main": "index.js",
 	"bin": "cli.js",
 	"files": [
