@@ -1,0 +1,31 @@
+{
+	"name": "is-answer-to-the-ultimate-question-of-life-the-universe-and-everything",
+	"version": "1.0.0",
+	"main": "index.js",
+	"bin": "cli.js",
+	"files": [
+		"index.js",
+		"cli.js"
+	],
+	"keywords": [
+		"42",
+		"joke"
+	],
+	"author": {
+		"name": "SnO2WMaN",
+		"email": "sno2wman.official@gmail.com"
+	},
+	"license": "MIT",
+	"scripts": {
+		"test": "ava --verbose",
+		"lint": "eslint index.js cli.js test/*.js --fix",
+		"fmt": "prettier *.{js,json,md} --write",
+		"release": "np"
+	},
+	"devDependencies": {
+		"ava": "^1.3.1",
+		"eslint": "^5.15.3",
+		"np": "^4.0.2",
+		"prettier": "^1.16.4"
+	}
+}
