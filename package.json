@@ -3,6 +3,9 @@
 	"version": "42.0.0",
 	"main": "index.js",
 	"bin": "cli.js",
+	"description": "Check if the value is 42",
+	"homepage": "https://github.com/SnO2WMaN/is-answer-to-the-ultimate-question-of-life-the-universe-and-everything#readme",
+	"repository": "https://github.com/SnO2WMaN/is-answer-to-the-ultimate-question-of-life-the-universe-and-everything.git",
 	"files": [
 		"index.js",
 		"cli.js"
