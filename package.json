@@ -1,6 +1,6 @@
 {
 	"name": "is-answer-to-the-ultimate-question-of-life-the-universe-and-everything",
-	"version": "42.0.0",
+	"version": "42.0.1",
 	"main": "index.js",
 	"bin": "cli.js",
 	"description": "Check if the value is 42",
